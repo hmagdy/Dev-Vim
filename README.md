@@ -7,6 +7,7 @@ It's super faster, productive and **just amazing** ;)
 
 
 ## Install vim-plug Plugin Manager
+  You can use any plugins manager, I prefere vim-plug
   
 	curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 	https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
