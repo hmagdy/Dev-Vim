@@ -6,12 +6,12 @@ And guess what?
 It's super faster, productive and **just amazing** ;) 
 
 
-## Install vim-plug and all plugins
+## Install vim-plug Plugin Manager
   
 	curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 	https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
-## Install HMagdyVimrc
+## Install all plugins with 2 commands
 then make HMagdyVimrc as your main .vimrc then insall all plugins needed by
 
 	cp HMagdyVimrc ~/.vimrc
