@@ -26,6 +26,6 @@ After that you can install all of them
 [Interactive Tutorial](http://www.openvim.com/)
   
 ### - Motivational Links
-  http://vim.wikia.com/wiki/Use_Vim_like_an_IDE
-  http://coderoncode.com/tools/2017/04/16/vim-the-perfect-ide.html
-  https://souravchk.github.io/blog/2017/04/20/configure-vim
+*  http://vim.wikia.com/wiki/Use_Vim_like_an_IDE
+*  http://coderoncode.com/tools/2017/04/16/vim-the-perfect-ide.html  
+*  https://souravchk.github.io/blog/2017/04/20/configure-vim
